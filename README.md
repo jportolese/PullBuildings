@@ -7,3 +7,8 @@ Output will be written in geojson format in the directory you ran the notebook i
 
 Read more about this data at 
 https://blogs.bing.com/maps/2023-06/Bing-Maps-Global-Building-Footprints-released
+
+This data is licensed by Microsoft under the Open Data Commons Open Database License (ODbL).
+"Insert prominently in all relevant locations a statement such as (replacing {DATA(BASE)-NAME} with the name of your data/database):
+Source the data with this:
+This {DATA(BASE)-NAME} is made available under the Open Database License: http://opendatacommons.org/licenses/odbl/1.0/. Any rights in individual contents of the database are licensed under the Database Contents License: http://opendatacommons.org/licenses/dbcl/1.0/"
